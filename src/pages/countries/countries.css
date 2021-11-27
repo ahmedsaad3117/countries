@@ -1,0 +1,16 @@
+#header-coun {
+  background: #6a6dec;
+  padding: 3rem;
+  color: white;
+}
+.flag-icon {
+  width: 100%;
+  height: 30%;
+}
+
+.link-count {
+  text-decoration: none;
+}
+.link-count:hover {
+  text-decoration:underline;
+}

@@ -1,0 +1,7 @@
+.link-ranking {
+    text-decoration: none;
+  }
+  .link-ranking:hover {
+    text-decoration:underline;
+  }
+  

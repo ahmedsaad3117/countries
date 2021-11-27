@@ -1,0 +1,19 @@
+#header {
+    background: #00baff;
+    color: white;
+    padding: 7rem;
+  }
+  #introduce {
+    background: #7587e5;
+    color: white;
+    padding: 7rem;
+  }
+  #ranking {
+    background: #d782da;
+    color: white;
+    padding: 7rem;
+  }
+  .introduce-image {
+    width: 100%;
+    height: 100%;
+  }

@@ -1,24 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { BrowserRouter as Router } from "react-router-dom";
+
+import { Routess } from "./routes/routes";
+
+import i18n from "i18next";
+import { useTranslation, initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import HttpApi from "i18next-http-backend";
+import Navbar from "./componant/navbar";
+
+i18n
+  .use(initReactI18next) // passes i18n down to react-i18next
+  .use(LanguageDetector)
+  .use(HttpApi)
+  .init({
+    supportedLngs: ["en", "fr", "ar"],
+
+    fallbackLng: "en",
+    detection: {
+      order: [
+        "cookie",
+        "htmlTag",
+        "localStorage",
+        "sessionStorage",
+        "navigator",
+        "querystring",
+        "path",
+        "subdomain",
+      ],
+      caches: ["cookie"],
+    },
+    backend: {
+      loadPath: "/assets/locales/{{lng}}/translation.json",
+    },
+  });
 
 function App() {
+  const { t } = useTranslation();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      
+      <Router>
+      <Navbar />
+        <Routess />
+      </Router>
+    </>
   );
 }
 
