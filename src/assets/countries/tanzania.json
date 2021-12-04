@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+255",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"TZ",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"TZA",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Dodoma",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Swahili",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Shilling (TZS)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$54.3 billion",
+    "rank":"86th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"41,892,895",
+    "rank":"30th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Africa",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Eastern Africa bordering the Indian Ocean between Kenya and Mozambique",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"945,087 km2",
+    "rank":"31st"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Plains along coast; central plateau; highlands in north south",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Varies from tropical along coast to temperate in highlands",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Plains along coast; central plateau; highlands in north south",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Kilimanjaro is highest point in Africa; bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north Lake Tanganyika (the world's second deepest) in the west and Lake Nyasa in the southwest",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"52.01 years",
+    "rank":"185th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"18.0 years",
+    "rank":"186th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"34.29 births/1,000 population",
+    "rank":"35th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"12.59 births/1,000 population",
+    "rank":"35th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.78 male(s)/female",
+    "rank":"96th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"69.4%",
+    "rank":"160th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"78891 km",
+    "rank":"59th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"3689 km",
+    "rank":"45th"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"124",
+    "rank":"46th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"None km",
+    "rank":""
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"None",
+    "rank":""
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"1",
+    "rank":"137th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Shilling (TZS)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$54.3 billion",
+    "rank":"86th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$1300",
+    "rank":"179th"
+  }
+]

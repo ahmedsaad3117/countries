@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+52",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"MX",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"MEX",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Mexico City",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Mexican Spanish",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Peso (MXN)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$1.6 trillion",
+    "rank":"10th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"112,468,855",
+    "rank":"11th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"North America",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Middle America bordering the Caribbean Sea and the Gulf of Mexico between Belize and the United States and bordering the North Pacific Ocean between Guatemala and the United States",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"1,972,550 km2",
+    "rank":"13th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"High rugged mountains; low coastal plains; high plateaus; desert",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Varies from tropical to desert",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"High rugged mountains; low coastal plains; high plateaus; desert",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Strategic location on southern border of US; corn (maize) one of the world's major grain crops is thought to have originated in Mexico",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"76.06 years",
+    "rank":"62nd"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"26.3 years",
+    "rank":"110th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"19.71 births/1,000 population",
+    "rank":"94th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"4.8 births/1,000 population",
+    "rank":"179th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.82 male(s)/female",
+    "rank":"77th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"91.0%",
+    "rank":"109th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"356945 km",
+    "rank":"18th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"17516 km",
+    "rank":"15th"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"1848",
+    "rank":"3rd"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"2900 km",
+    "rank":"32nd"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"1",
+    "rank":"81st"
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"12",
+    "rank":"9th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Peso (MXN)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$1.6 trillion",
+    "rank":"10th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$14200",
+    "rank":"72nd"
+  }
+]

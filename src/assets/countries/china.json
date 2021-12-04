@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+86",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"CN",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"CHN",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Beijing",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Simplified Chinese",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Yuan Renminbi (CNY)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$7.8 trillion",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"Population",
+    "value":"1,330,044,000",
+    "rank":"1st"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Asia",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Eastern Asia bordering the East China Sea Korea Bay Yellow Sea and South China Sea between North Korea and Vietnam",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"9,596,960 km2",
+    "rank":"4th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Mostly mountains high plateaus deserts in west; plains deltas and hills in east",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Extremely diverse; tropical in south to subarctic in north",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Mostly mountains high plateaus deserts in west; plains deltas and hills in east",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"World's fourth largest country (after Russia Canada and US); Mount Everest on the border with Nepal is the world's tallest peak",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"73.47 years",
+    "rank":"94th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"34.1 years",
+    "rank":"62nd"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"14.0 births/1,000 population",
+    "rank":"140th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"7.06 births/1,000 population",
+    "rank":"119th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.91 male(s)/female",
+    "rank":"35th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"90.9%",
+    "rank":"110th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"1.9 million km",
+    "rank":"3rd"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"77834 km",
+    "rank":"3rd"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"477",
+    "rank":"15th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"110000 km",
+    "rank":"1st"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"35",
+    "rank":"4th"
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"21",
+    "rank":"3rd"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Yuan Renminbi (CNY)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$7.8 trillion",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$6000",
+    "rank":"120th"
+  }
+]

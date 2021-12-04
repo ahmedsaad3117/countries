@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+45",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"DK",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"DNK",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Copenhagen",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Danish",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Krone (DKK)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$204.9 billion",
+    "rank":"50th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"5,484,000",
+    "rank":"111th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Europe",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Northern Europe bordering the Baltic Sea and the North Sea on a peninsula north of Germany (Jutland); also includes two major islands (Sjaelland and Fyn)",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"43,094 km2",
+    "rank":"135th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Low and flat to gently rolling plains",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Temperate; humid and overcast; mild windy winters and cool summers",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Low and flat to gently rolling plains",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"78.3 years",
+    "rank":"39th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"40.5 years",
+    "rank":"21st"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"10.54 births/1,000 population",
+    "rank":"169th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"10.22 births/1,000 population",
+    "rank":"57th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.78 male(s)/female",
+    "rank":"100th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"99.0%",
+    "rank":"32nd"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"72362 km",
+    "rank":"63rd"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"2667 km",
+    "rank":"62nd"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"92",
+    "rank":"64th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"400 km",
+    "rank":"86th"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"None",
+    "rank":""
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"2",
+    "rank":"67th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Krone (DKK)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$204.9 billion",
+    "rank":"50th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$37400",
+    "rank":"26th"
+  }
+]

@@ -14,7 +14,7 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand " to="/">
           {t('nav_title1')}
           </Link>
           <button
@@ -29,7 +29,7 @@ const Navbar = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
-            <ul className="navbar-nav mx-2 mb-2 mb-lg-0">
+            <ul className="navbar-nav   ">
               <li className="nav-item">
                 <Link className="nav-link active" aria-current="page" to="/">
                   {t('home')}

@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+353",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"IE",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"IRL",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Dublin",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"English",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Euro (EUR)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$191.9 billion",
+    "rank":"53rd"
+  },
+
+  {
+    "unit":"Population",
+    "value":"4,622,917",
+    "rank":"121st"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Europe",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Western Europe occupying five-sixths of the island of Ireland in the North Atlantic Ocean west of Great Britain",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"70,280 km2",
+    "rank":"121st"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Temperate maritime; modified by North Atlantic Current; mild winters cool summers; consistently humid; overcast about half the time",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"78.24 years",
+    "rank":"40th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"35.0 years",
+    "rank":"60th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"14.23 births/1,000 population",
+    "rank":"139th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"7.75 births/1,000 population",
+    "rank":"106th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.81 male(s)/female",
+    "rank":"83rd"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"99.0%",
+    "rank":"26th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"96602 km",
+    "rank":"45th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"3237 km",
+    "rank":"52nd"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"37",
+    "rank":"106th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"956 km",
+    "rank":"66th"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"None",
+    "rank":""
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"1",
+    "rank":"184th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Euro (EUR)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$191.9 billion",
+    "rank":"53rd"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$46200",
+    "rank":"10th"
+  }
+]

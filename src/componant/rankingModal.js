@@ -21,7 +21,7 @@ const RankingModal = () => {
     "Population",
     "Railways",
     "Roadways",
-    "Sex ratio",
+    "Sex_ratio",
     "Waterways",
   ];
   return (
@@ -53,7 +53,7 @@ const RankingModal = () => {
                   {rankings.map((ranking, index) => {
                     return (
                       <div className="col-6">
-                        <Link className="link-ranking" to=""> {t(ranking)}</Link>
+                        <Link className="link-ranking" to={`/ranking/${ranking}`}> {t(ranking)}</Link> 
                       </div>
                     );
                   })}

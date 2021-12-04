@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+36",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"HU",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"HUN",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Budapest",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Hungarian",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Forint (HUF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$205.7 billion",
+    "rank":"49th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"9,982,000",
+    "rank":"83rd"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Europe",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Central Europe northwest of Romania",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"93,030 km2",
+    "rank":"110th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Mostly flat to rolling plains; hills and low mountains on the Slovakian border",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Temperate; cold cloudy humid winters; warm summers",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Mostly flat to rolling plains; hills and low mountains on the Slovakian border",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"73.44 years",
+    "rank":"95th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"39.4 years",
+    "rank":"31st"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"9.51 births/1,000 population",
+    "rank":"190th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"12.94 births/1,000 population",
+    "rank":"30th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.57 male(s)/female",
+    "rank":"198th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"99.4%",
+    "rank":"22nd"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"159568 km",
+    "rank":"31st"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"8057 km",
+    "rank":"26th"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"46",
+    "rank":"94th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"1622 km",
+    "rank":"47th"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"5",
+    "rank":"30th"
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"2",
+    "rank":"84th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Forint (HUF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$205.7 billion",
+    "rank":"49th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$19800",
+    "rank":"54th"
+  }
+]

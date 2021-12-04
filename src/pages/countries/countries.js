@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 
 
 import './countries.css'
-const Countries = ()=>{
+const Countries = (country)=>{
     const { t } = useTranslation();
 
     const state = {
@@ -35,7 +35,7 @@ const Countries = ()=>{
                             .toLowerCase()} `}
                         ></span>
                         <p className="lead">
-                          <Link className="link-count" to="/">
+                          <Link className="link-count" to={`/country/${country}`}>
                             {country}
                           </Link>
                         </p>

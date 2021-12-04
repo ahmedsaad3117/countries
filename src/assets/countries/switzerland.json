@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+41",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"CH",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"CHE",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Berne",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"German",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Franc (CHF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$309.9 billion",
+    "rank":"37th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"7,581,000",
+    "rank":"95th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Europe",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Central Europe east of France north of Italy",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"41,290 km2",
+    "rank":"137th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Mostly mountains (Alps in south Jura in northwest) with a central plateau of rolling hills plains and large lakes",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Temperate but varies with altitude; cold cloudy rainy/snowy winters; cool to warm cloudy humid summers with occasional showers",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Mostly mountains (Alps in south Jura in northwest) with a central plateau of rolling hills plains and large lakes",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Landlocked; crossroads of northern and southern Europe; along with southeastern France northern Italy and southwestern Austria has the highest elevations in the Alps",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"80.85 years",
+    "rank":"10th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"41.0 years",
+    "rank":"18th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"9.59 births/1,000 population",
+    "rank":"188th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"8.59 births/1,000 population",
+    "rank":"85th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.71 male(s)/female",
+    "rank":"146th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"99.0%",
+    "rank":"31st"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"71298 km",
+    "rank":"65th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"4888 km",
+    "rank":"35th"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"66",
+    "rank":"73rd"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"65 km",
+    "rank":"101st"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"2",
+    "rank":"49th"
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"3",
+    "rank":"39th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Franc (CHF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$309.9 billion",
+    "rank":"37th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$40900",
+    "rank":"15th"
+  }
+]

@@ -9,6 +9,10 @@ import { Suspense } from "react";
 import "bootstrap/dist/js/bootstrap.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "flag-icon-css/css/flag-icons.css";
+import 'primeicons/primeicons.css';
+import 'primereact/resources/themes/saga-blue/theme.css';
+import 'primereact/resources/primereact.css'; 
+import 'primeflex/primeflex.css';
 
 const loadingMarkup = (
   <div className='py-4 test-center'>
@@ -19,7 +23,7 @@ const loadingMarkup = (
 ReactDOM.render(
   <Suspense fallback={loadingMarkup}>
     <React.StrictMode>
-      <App />
+      <App /> 
     </React.StrictMode>
   </Suspense>,
   document.getElementById("root")

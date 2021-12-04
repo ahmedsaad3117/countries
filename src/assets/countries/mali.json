@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+223",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"ML",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"MLI",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Bamako",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"French",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Franc (XOF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$14.5 billion",
+    "rank":"133rd"
+  },
+
+  {
+    "unit":"Population",
+    "value":"13,796,354",
+    "rank":"67th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Africa",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Western Africa southwest of Algeria",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"1,240,000 km2",
+    "rank":"24th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Mostly flat to rolling northern plains covered by sand; savanna in south rugged hills in northeast",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Subtropical to arid; hot and dry (February to June); rainy humid and mild (June to November); cool and dry (November to February)",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Mostly flat to rolling northern plains covered by sand; savanna in south rugged hills in northeast",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Landlocked; divided into three natural zones: the southern cultivated Sudanese; the central semiarid Sahelian; and the northern arid Saharan",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"50.35 years",
+    "rank":"189th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"15.8 years",
+    "rank":"204th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"49.15 births/1,000 population",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"15.82 births/1,000 population",
+    "rank":"17th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.64 male(s)/female",
+    "rank":"182nd"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"46.4%",
+    "rank":"194th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"18709 km",
+    "rank":"113th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"593 km",
+    "rank":"111th"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"26",
+    "rank":"125th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"1800 km",
+    "rank":"44th"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"None",
+    "rank":""
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"1",
+    "rank":"169th"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Franc (XOF)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$14.5 billion",
+    "rank":"133rd"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$1200",
+    "rank":"185th"
+  }
+]

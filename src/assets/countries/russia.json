@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+7",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"RU",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"RUS",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Moscow",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Russian",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Ruble (RUB)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$2.2 trillion",
+    "rank":"7th"
+  },
+
+  {
+    "unit":"Population",
+    "value":"140,702,000",
+    "rank":"9th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"Europe",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Northern Asia (the area west of the Urals is considered part of Europe) bordering the Arctic Ocean between Europe and the North Pacific Ocean",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"17,100,000 km2",
+    "rank":"1st"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Broad plain with low hills west of Urals; vast coniferous forest and tundra in Siberia; uplands and mountains along southern border regions",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Broad plain with low hills west of Urals; vast coniferous forest and tundra in Siberia; uplands and mountains along southern border regions",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size much of the country lacks proper soils and climates (either too cold or too dry) for agriculture; Mount El'brus is Europe's tallest peak",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"66.03 years",
+    "rank":"148th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"38.4 years",
+    "rank":"40th"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"11.1 births/1,000 population",
+    "rank":"163rd"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"16.06 births/1,000 population",
+    "rank":"16th"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.44 male(s)/female",
+    "rank":"206th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"99.4%",
+    "rank":"20th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"933000 km",
+    "rank":"7th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"87157 km",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"1232",
+    "rank":"5th"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"102000 km",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"47",
+    "rank":"3rd"
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"52",
+    "rank":"2nd"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Ruble (RUB)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$2.2 trillion",
+    "rank":"7th"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$15800",
+    "rank":"66th"
+  }
+]

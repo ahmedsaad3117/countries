@@ -24,6 +24,10 @@
   "Population":"Population",
   "Railways":"Railways",
   "Roadways":"Roadways",
-  "Sex ratio":"Sex ratio",
-  "Waterways":"Waterways"
+  "Sex_ratio":"Sex ratio",
+  "Waterways":"Waterways",
+  "table_countray":"Countray",
+  "table_value":"Value",
+  "table_rank":"Rank",
+  "table_unit":"Unit"
 }

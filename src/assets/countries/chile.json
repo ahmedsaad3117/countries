@@ -1,0 +1,182 @@
+[
+
+  {
+    "unit":"Dialing code",
+    "value":"+56",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 2 code",
+    "value":"CL",
+    "rank":""
+  },
+
+  {
+    "unit":"ISO 3 code",
+    "value":"CHL",
+    "rank":""
+  },
+
+  {
+    "unit":"Capital",
+    "value":"Santiago",
+    "rank":""
+  },
+
+  {
+    "unit":"Main Language",
+    "value":"Spanish",
+    "rank":""
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Peso (CLP)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$245.3 billion",
+    "rank":"42nd"
+  },
+
+  {
+    "unit":"Population",
+    "value":"16,746,491",
+    "rank":"59th"
+  },
+
+  {
+    "unit":"Continent",
+    "value":"South America",
+    "rank":""
+  },
+
+  {
+    "unit":"Location",
+    "value":"Southern South America bordering the South Pacific Ocean between Argentina and Peru",
+    "rank":""
+  },
+
+  {
+    "unit":"Land",
+    "value":"756,950 km2",
+    "rank":"38th"
+  },
+
+  {
+    "unit":"Terrain",
+    "value":"Low coastal mountains; fertile central valley; rugged Andes in east",
+    "rank":""
+  },
+
+  {
+    "unit":"Climate",
+    "value":"Temperate; desert in north; Mediterranean in central region; cool and damp in south",
+    "rank":""
+  },
+
+  {
+    "unit":"Natural Hazards",
+    "value":"Low coastal mountains; fertile central valley; rugged Andes in east",
+    "rank":""
+  },
+
+  {
+    "unit":"Note:",
+    "value":"Strategic location relative to sea lanes between Atlantic and Pacific Oceans (Strait of Magellan Beagle Channel Drake Passage); Atacama Desert is one of world's driest regions",
+    "rank":""
+  },
+
+  {
+    "unit":"Life Expectancy",
+    "value":"77.34 years",
+    "rank":"48th"
+  },
+
+  {
+    "unit":"Median Age",
+    "value":"31.4 years",
+    "rank":"73rd"
+  },
+
+  {
+    "unit":"Birth Rate",
+    "value":"14.64 births/1,000 population",
+    "rank":"134th"
+  },
+
+  {
+    "unit":"Death Rate",
+    "value":"5.84 births/1,000 population",
+    "rank":"153rd"
+  },
+
+  {
+    "unit":"Sex Ratio",
+    "value":"0.72 male(s)/female",
+    "rank":"137th"
+  },
+
+  {
+    "unit":"Literacy",
+    "value":"95.7%",
+    "rank":"84th"
+  },
+
+  {
+    "unit":"Roadways",
+    "value":"80505 km",
+    "rank":"57th"
+  },
+
+  {
+    "unit":"Railways",
+    "value":"5481 km",
+    "rank":"32nd"
+  },
+
+  {
+    "unit":"Airports",
+    "value":"357",
+    "rank":"21st"
+  },
+
+  {
+    "unit":"Waterways",
+    "value":"None km",
+    "rank":""
+  },
+
+  {
+    "unit":"Heliports",
+    "value":"None",
+    "rank":""
+  },
+
+  {
+    "unit":"Airports with paved",
+    "value":"5",
+    "rank":"22nd"
+  },
+
+  {
+    "unit":"Currency",
+    "value":"Peso (CLP)",
+    "rank":""
+  },
+
+  {
+    "unit":"GDP",
+    "value":"$245.3 billion",
+    "rank":"42nd"
+  },
+
+  {
+    "unit":"GDP per capita (PPP)",
+    "value":"$14900",
+    "rank":"69th"
+  }
+]
