@@ -6,3 +6,6 @@
   #countryName {
     word-wrap: break-word;
   }
+th div {
+  display: block !important ;
+}
