@@ -8,7 +8,7 @@ const Home = () => {
   const { t } = useTranslation();
 return (
   <>
-    <div className="row">
+    <div className="">
       <div id="header" className="col-12">
         <div className="container text-center">
           <h1 className="display-3">
